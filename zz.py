@@ -1,1 +1,1 @@
-zzz
+print('merge_test')
